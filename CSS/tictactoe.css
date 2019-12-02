@@ -1,0 +1,49 @@
+*{
+	font-family: 'Raleway', sans-serif;
+}
+
+h1{
+	text-align: center;
+}
+
+table {
+	margin: auto auto auto auto;
+	border-spacing: 0px;
+	width: 300px;
+	height: 300px;
+	text-align: center;
+	font-size: 80px;
+	color: white;
+}
+
+td:hover{
+	color: red;
+}
+
+td{
+	border: 1px black solid;
+}
+
+td:first-child{
+	padding: 5px;
+	border-left: 0px ;
+}
+
+td:last-child{
+	padding: 5px;
+	border-right: 0px ;
+}
+
+.top{
+	padding: 5px;
+	border-top: 0px ;
+}
+
+.bottom{
+	padding: 5px;
+	border-bottom: 0px ;
+}
+
+
+
+
